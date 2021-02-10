@@ -1,16 +1,12 @@
-### Hi there 👋
+<center>
+    <img src="assets/gif/loading.gif" width="200px">
+</center>
 
-<!--
-**ghaschel/ghaschel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello, stranger 🖖🏻
+You can find me on:
+- [Linkedin](https://www.linkedin.com/in/guilherme-haschel-52738282)
+- [Web](https://ghaschel.dev/)
+- [Twitter](https://twitter.com/echo__off)
+- [Email](mailto:ghaschel@gmail.com)
