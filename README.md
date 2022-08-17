@@ -7,6 +7,4 @@
 ## Hello, stranger 🖖🏻
 You can find me on:
 - [Linkedin](https://www.linkedin.com/in/guilherme-haschel-52738282)
-- [Web](https://ghaschel.dev/)
-- [Twitter](https://twitter.com/echo__off)
 - [Email](mailto:ghaschel@gmail.com)
